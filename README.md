@@ -5,7 +5,7 @@ I am working as an Analyst at Deloitte USI. I am a graduate in Computer Engineer
 
 * I'm based in Mumbai
 * You can contact me at: tejasdhopavkar2000@gmail.com
-* I'm learning React JS, ServiceNow
+* I'm learning React JS, Express JS, MongoDB
 * I like to play badminton
 
 ### Skills
