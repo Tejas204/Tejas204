@@ -4,7 +4,7 @@ Hi 👋 My name is Tejas Dhopavkar
 I am working as an Analyst at Deloitte USI. I am a graduate in Computer Engineering from VESIT, Mumbai. I am interested in full-stack web development, machine learning and deep learning.
 
 * I'm based in Mumbai
-* You can contact me at: tejasdhopavkar2000@gmail.com
+* You can contact me on my <a href="tejasdhopavkar2000@gmail.com">Email</a> or on <a href="https://www.linkedin.com/in/tejas-dhopavkar/">LinkedIn</a>
 * I'm learning React JS, Express JS, MongoDB
 * I like to play badminton
 
