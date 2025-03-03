@@ -5,7 +5,7 @@ I am working as an Analyst at Deloitte USI. I am a Computer Engineering graduate
 
 * I am interested in the applications of AI, cryptograohy and full stack web development.
 * I'm learning React JS, Express JS, MongoDB
-* Other than tech, I like to play badminton
+* Other than tech, I like to play badminton and read books
 * You can contact me on tejasdhopavkar2000@gmail.com or on <a href="https://www.linkedin.com/in/tejas-dhopavkar/">LinkedIn</a>
 
 ### Skills
