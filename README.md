@@ -3,7 +3,7 @@ Hi 👋 My name is Tejas Dhopavkar
 
 I am a masters student pursuing a degree in informatics at the Saarland University, Germany. I was working as an Analyst at Deloitte USI for more than 2 years. I am a Computer Engineering graduate from VESIT, Mumbai. I am interested in machine learning, deep learning, cryptography and full-stack web development.
 
-* I am interested in the applications of AI, cryptography and full stack web development.
+* I am interested in the applications of AI in the field of computer vision & SNLP, cryptography and full stack web development.
 * I'm learning React JS, Express JS, MongoDB, Machine Learning, Computer Vision
 * Other than tech, I like to play badminton and read books
 * You can contact me on tejasdhopavkar2000@gmail.com or on <a href="https://www.linkedin.com/in/tejas-dhopavkar/">LinkedIn</a>
