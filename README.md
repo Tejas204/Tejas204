@@ -6,7 +6,7 @@ I am a master's student pursuing a degree in Informatics at the Saarland Univers
 * I am interested in computer vision, SNLP, cryptography and full stack web development.
 * I'm learning React JS, Express JS, MongoDB, Machine Learning, Computer Vision
 * Other than tech, I like to play badminton and read books
-* You can contact me on tejasdhopavkar2000@gmail.com or on <a href="https://www.linkedin.com/in/tejas-dhopavkar/">LinkedIn</a>
+* You can contact me on ta.dhopavkar@gmail.com or on <a href="https://www.linkedin.com/in/tejas-dhopavkar/">LinkedIn</a>
 
 ### Skills
 
