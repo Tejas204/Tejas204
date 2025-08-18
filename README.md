@@ -1,7 +1,7 @@
 Hi 👋 My name is Tejas Dhopavkar
 ================================
 
-I am a master's student pursuing a degree in Informatics at the Saarland University, Germany. I was working as an Analyst at Deloitte USI for more than 2 years. I am a Computer Engineering graduate from Mumbai University. I am interested in machine learning, deep learning, cryptography and full-stack web development.
+I am a master's student pursuing a degree in Informatics at the Saarland University, Germany. I was working as an Analyst at Deloitte USI for more than 2 years. I am a Computer Engineering graduate from Mumbai University. I am interested in machine learning, deep learning, cryptography and full-stack web development..
 
 * I am interested in computer vision, machine learning, SNLP, cryptography and full stack web development.
 * I'm learning React JS, Express JS, MongoDB, Machine Learning, Computer Vision
