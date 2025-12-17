@@ -5,7 +5,7 @@ I am a master's student pursuing a degree in Informatics (Computer Science) at t
 
 * I am interested in computer vision, machine learning, SNLP and explainable machine learning (mechanistic explaibability, model agnostic methods).
 * I'm learning React JS, Express JS, MongoDB, Machine Learning, Computer Vision and NLP.
-* Other than tech, I like to play badminton and read books
+* Other than tech, I like to play badminton and read books.
 * You can contact me on ta.dhopavkar@gmail.com or on <a href="https://www.linkedin.com/in/tejas-dhopavkar/">LinkedIn</a>
 
 ### Skills
