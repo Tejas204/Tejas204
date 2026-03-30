@@ -1,7 +1,7 @@
 Hi 👋 My name is Tejas Dhopavkar
 ================================
 
-I am a master's student pursuing a degree in Informatics (Computer Science) at the Saarland University, Germany. I am working as a research assistant at the Max Planck Institute for Informatics. I was working as an Analyst at Deloitte USI for more than 2 years. I am a Computer Engineering graduate from Mumbai University. I am interested in machine learning, deep learning, computer vision, cryptography and full-stack web development.
+I am a master's student pursuing a degree in Informatics (Computer Science) at the Saarland University, Germany. I am working as a research assistant at the Max Planck Institute for Informatics. I am a Computer Engineering graduate from Mumbai University. I am interested in machine learning, deep learning, computer vision, cryptography and full-stack web development.
 
 * I am interested in computer vision, machine learning, SNLP, vision language models and explainable machine learning (mechanistic explaibability, model agnostic methods)
 * I'm learning React JS, Express JS, MongoDB, Machine Learning, Computer Vision and NLP.
