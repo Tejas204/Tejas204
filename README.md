@@ -26,5 +26,5 @@ I am a master's student pursuing a degree in Informatics (Computer Science) at t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Tejas204" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tejas-dhopavkar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/tejas-dhopavkar/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
