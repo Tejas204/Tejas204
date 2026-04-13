@@ -1,7 +1,7 @@
 Hi 👋 My name is Tejas Dhopavkar
 ================================
 
-I am a master's student pursuing a degree in Informatics (Computer Science) at the Saarland University, Germany. I am working as a research assistant at the Max Planck Institute for Informatics. I am a Computer Engineering graduate from Mumbai University. I am interested in computer vision, vision-language models, explainable AI and natural language processing.
+I am a master's student pursuing a degree in Informatics (Computer Science) at the Saarland University, Germany. I am working as a research assistant at the Max Planck Institute for Informatics in the field of vision-language models. I am a Computer Engineering graduate from Mumbai University. I am interested in computer vision, vision-language models, explainable AI and natural language processing.
 
 * I am interested in computer vision, machine learning, SNLP, vision language models and explainable machine learning (mechanistic explaibability, model agnostic methods)
 * I'm learning React JS, Express JS, MongoDB, Machine Learning, Computer Vision and NLP.
