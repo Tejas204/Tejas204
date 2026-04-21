@@ -3,9 +3,8 @@
 **`Research Assistant @ MPI-Informatics`**
 
 ## About me
-I am a master's student pursuing a degree in Informatics (Computer Science) at the Saarland University, Germany. I am working as a research assistant at the Max Planck Institute for Informatics in the field of vision-language models. I am a Computer Engineering graduate from Mumbai University. I am interested in computer vision, vision-language models, explainable AI and natural language processing.
-
-- `⁠Interests`: computer vision, machine learning, SNLP, vision language models and explainable machine learning (mechanistic explaibability, model agnostic methods)
+- `Introduction`:I am a master's student pursuing a degree in Informatics (Computer Science) at the Saarland University, Germany. I am working as a research assistant at the Max Planck Institute for Informatics in the field of vision-language models. I am a Computer Engineering graduate from Mumbai University.
+- `⁠Interests`: computer vision, vision-language models, explainable AI and natural language processing
 - `For fun`: I like to play badminton and read books.
 
 ## Connect with me:
