@@ -1,4 +1,4 @@
-# Tejas Dhopavkar
+# Tejas Atul Dhopavkar
 
 **`Research Assistant @ MPI-Informatics`**
 
